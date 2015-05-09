@@ -1,0 +1,4 @@
+# DadaRentCarSystem
+imooc_java_work
+哒哒租车系统，这是学习慕课网java课程第二季结尾时留的编程练习作业
+写的这个只是一次输入的，没有加最外部循环
